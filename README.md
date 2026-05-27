@@ -12,5 +12,5 @@ Recommended usage:
 Example ForcePack URL:
 
 ```text
-https://github.com/PhamTriHien/upload_resourepack/releases/download/v1/enderman.zip
+https://github.com/PhamTriHien/upload_resourepack/releases/download/v1/server-full-resourcepack.zip
 ```
